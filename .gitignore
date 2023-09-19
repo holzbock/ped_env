@@ -1,0 +1,40 @@
+# git ignore files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.heic
+*.JPG
+*.JPEG
+*.PNG
+*.BMP
+*.TIF
+*.TIFF
+*.HEIC
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.data
+*.json
+*.pt
+*.tar.gz
+*.npy
+*.bin
+*.pickle
+*.lmdb
+*.lmdb-lock
+*.pdf
+*.pth
+
+# git ignore directories
+__pycache__/
+data/
+.hypothesis/
+simulation/.hypothesis/
+simulation/output/
+
+# Exceptions
+!overview.png
